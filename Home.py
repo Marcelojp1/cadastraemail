@@ -13,12 +13,6 @@ st.markdown('# Bem-vindo ao Gestor de Vendas e Resultados de sua Farmácia')
 
 st.divider()
 
-name = st.chat_input('Digite eu e-mail: ')
-
-st.write(f'Email cadastrado com sucesso: {name}')
-
-
-
 
 # READ DATA
 #tabela_vendas = pd.read_excel('datasets/Rel-may-2025-tratado.xlsx', decimal=',')
